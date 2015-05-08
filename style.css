@@ -39,12 +39,15 @@ header {
   font-family: sans-serif;
   font-size: 33px;
   color: white;
-  text-align: center; }
+  text-align: center;
+  text-shadow: 0 3px 0 rgba(0, 0, 0, 0.5);
+  }
+  
   header .headertext1 {
     font-family: sans-serif;
     font-size: 30px;
     color: white;
-    text-shadow: 1px 1px 1px #000; }
+   }
 
 .prices {
   background-color: white;
@@ -148,3 +151,8 @@ footer {
   padding-bottom: 27px;
   line-height: 150%;
   text-align: center; }
+
+
+
+
+    }
